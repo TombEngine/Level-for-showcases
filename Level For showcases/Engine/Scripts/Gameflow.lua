@@ -29,7 +29,7 @@ Flow.EnableLaraInTitle(false)
 
 -- Disable/enable level selection in title level
 
-Flow.EnableLevelSelect(false)
+Flow.EnableLevelSelect(true)
 
 -- Disable/enable mass pickup (collect all pickups at once)
 
@@ -59,5 +59,44 @@ New_Level.levelFile = "Data\\New_Level.ten"
 New_Level.loadScreenFile = "Screens\\rome.jpg"
 
 TEN.Flow.AddLevel(New_Level)
+
+--------------------------------------------------
+
+-- Water_Features level
+
+Water_Features = TEN.Flow.Level()
+
+Water_Features.nameKey = "Water_Features"
+Water_Features.scriptFile = "Scripts\\Levels\\Water_Features.lua"
+Water_Features.ambientTrack = "110"
+Water_Features.horizon = true
+Water_Features.levelFile = "Data\\Water_Features.ten"
+Water_Features.loadScreenFile = "Screens\\rome.jpg"
+
+Water_Features.objects = {
+
+	InventoryItem("blue_cube",
+				ObjID.PUZZLE_ITEM1,
+				0,
+				1,
+				Rotation(0,0,0),
+				RotationAxis.Y,
+				0,
+				ItemAction.USE
+				),
+
+	InventoryItem("red_cube",
+				ObjID.PUZZLE_ITEM2,
+				0,
+				1,
+				Rotation(0,0,0),
+				RotationAxis.Y,
+				0,
+				ItemAction.USE
+				)
+	
+	}
+
+TEN.Flow.AddLevel(Water_Features)
 
 --------------------------------------------------

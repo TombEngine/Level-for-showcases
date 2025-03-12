@@ -3,6 +3,7 @@ local strings =
 	-- Inventory item strings
 	
 	binoculars = { "Binoculars" },
+	blue_cube = { "Blue Cube" },
 	crossbow = { "Crossbow" },
 	crossbow_explosive_ammo = { "Crossbow Explosive Ammo" },
 	crossbow_lasersight = { "Crossbow + Lasersight" },
@@ -32,6 +33,7 @@ local strings =
 	passport = { "Passport" },
 	pistol_ammo = { "Pistol Ammo" },
 	pistols = { "Pistols" },
+	red_cube = { "Red Cube" },
 	revolver = { "Revolver" },
 	revolver_ammo = { "Revolver Ammo" },
 	revolver_lasersight = { "Revolver + Lasersight" },
@@ -61,7 +63,8 @@ local strings =
 	home_level = { "Home Level" },
 	test_level = { "Test Level" },
 	title = { "Title" },
-	New_Level = { "New Level" }
+	New_Level = { "New Level" },
+	Water_Features = { "Water Features" }
 }
 
 TEN.Flow.SetStrings(strings)
