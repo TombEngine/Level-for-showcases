@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>Level For showcases</Name>
+	<GameVersion>TombEngine</GameVersion>
+	<LevelsPath>$(ProjectDirectory)\Levels</LevelsPath>
+	<ScriptPath>$(ProjectDirectory)\Engine\Scripts</ScriptPath>
+	<LaunchFilePath>$(ProjectDirectory)\PLAY.exe</LaunchFilePath>
+	<Levels>
+		<ProjectLevel>
+			<Name>New Level</Name>
+			<FolderPath>$(ProjectDirectory)\Levels\New Level</FolderPath>
+		</ProjectLevel>
+	</Levels>
+</Project>

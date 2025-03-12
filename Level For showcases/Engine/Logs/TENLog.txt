@@ -1,0 +1,124 @@
+[2025-Feb-23 10:52:57] [info] Starting TombEngine version 1.7.2.0 (64-bit)
+[2025-Feb-23 10:52:57] [info] Loading gameflow script, strings, and settings...
+[2025-Feb-23 10:52:57] [info] Level count: 2
+[2025-Feb-23 10:52:57] [info] Creating DX11 renderer device...
+[2025-Feb-23 10:52:57] [info] Initializing DX11...
+[2025-Feb-23 10:52:57] [info] Loading shaders...
+[2025-Feb-23 10:52:58] [info] Initializing BASS sound device: success
+[2025-Feb-23 10:52:58] [info] Initializing FX plugin: success
+[2025-Feb-23 10:52:58] [info] Starting 3D mixdown: success
+[2025-Feb-23 10:52:58] [info] Attaching environmental FX: success
+[2025-Feb-23 10:52:58] [info] Attaching compressor: success
+[2025-Feb-23 10:52:58] [info] Initializing input system...
+[2025-Feb-23 10:52:59] [info] Found 3 connected game controllers.
+[2025-Feb-23 10:52:59] [info] Using 'Controller (Legion Controller for Windows )' device for input.
+[2025-Feb-23 10:52:59] [info] Controller supports vibration.
+[2025-Feb-23 10:52:59] [info] Starting GameMain()...
+[2025-Feb-23 10:52:59] [warning] Intro image path not set.
+[2025-Feb-23 10:52:59] [info] DoLevel
+[2025-Feb-23 10:52:59] [info] Loading level file: ../../Data\New_Level.ten
+[2025-Feb-23 10:52:59] [warning] Texture file not found: ../../Screens\rome.jpg
+[2025-Feb-23 10:52:59] [info] Level compiler version: 1.7.4
+[2025-Feb-23 10:52:59] [info] Loading textures... 
+[2025-Feb-23 10:52:59] [info] Room texture count: 1
+[2025-Feb-23 10:52:59] [info] Object texture count: 1
+[2025-Feb-23 10:52:59] [info] Static texture count: 0
+[2025-Feb-23 10:52:59] [info] Anim texture count: 0
+[2025-Feb-23 10:52:59] [info] Sprite texture count: 1
+[2025-Feb-23 10:52:59] [info] Loading samples... 
+[2025-Feb-23 10:52:59] [info] Sound map size: 4096
+[2025-Feb-23 10:52:59] [info] Sample info count: 305
+[2025-Feb-23 10:52:59] [info] Sample count: 362
+[2025-Feb-23 10:52:59] [info] Loading rooms... 
+[2025-Feb-23 10:52:59] [info] Room count: 10
+[2025-Feb-23 10:52:59] [info] Mesh count: 680
+[2025-Feb-23 10:52:59] [info] Animation count: 1276
+[2025-Feb-23 10:52:59] [info] Model count: 129
+[2025-Feb-23 10:52:59] [info] Initializing objects...
+[2025-Feb-23 10:52:59] [info] Statics: 0
+[2025-Feb-23 10:52:59] [info] Sprite count: 147
+[2025-Feb-23 10:52:59] [info] Sprite sequence count: 23
+[2025-Feb-23 10:52:59] [info] Box count: 63
+[2025-Feb-23 10:52:59] [info] Overlap count: 336
+[2025-Feb-23 10:52:59] [info] Zone group count: 5
+[2025-Feb-23 10:52:59] [info] Mirror count: 0
+[2025-Feb-23 10:52:59] [info] Anim texture count: 0
+[2025-Feb-23 10:53:00] [info] Moveables: 4
+[2025-Feb-23 10:53:00] [info] AI object count: 0
+[2025-Feb-23 10:53:00] [info] Camera count: 0
+[2025-Feb-23 10:53:00] [info] Sink count: 0
+[2025-Feb-23 10:53:00] [info] Sound source count: 0
+[2025-Feb-23 10:53:00] [info] Initializing level...
+[2025-Feb-23 10:53:00] [info] Preparing renderer...
+[2025-Feb-23 10:53:00] [info] Allocated renderer object memory.
+[2025-Feb-23 10:53:00] [info] Generated 1 room texture atlases.
+[2025-Feb-23 10:53:00] [info] Generated 1 moveable texture atlases.
+[2025-Feb-23 10:53:00] [info] Generated 1 sprite atlases.
+[2025-Feb-23 10:53:00] [info] Loaded sky texture.
+[2025-Feb-23 10:53:00] [info] Loaded total 4277 room vertices.
+[2025-Feb-23 10:53:00] [info] Preparing room data...
+[2025-Feb-23 10:53:00] [info] Preparing object data...
+[2025-Feb-23 10:53:00] [info] Preparing static mesh data...
+[2025-Feb-23 10:53:00] [info] Preparing sprite data...
+[2025-Feb-23 10:53:00] [info] Level loading complete.
+[2025-Feb-23 10:53:00] [info] Loading level script...
+[2025-Feb-23 10:53:00] [warning] No soundtrack files with name '110' were found
+[2025-Feb-23 10:53:00] [info] Loading node scripts...
+[2025-Feb-23 10:53:01] [info] 21 node catalogs were found and loaded.
+[2025-Feb-23 10:53:01] [info] Starting new game.
+[2025-Feb-23 10:53:39] [info] Saving hub data for level #1 (new)
+[2025-Feb-23 10:53:39] [info] DoTitle
+[2025-Feb-23 10:53:39] [info] Title level file not found, using dummy level.
+[2025-Feb-23 10:53:39] [info] Level compiler version: 1.7.3
+[2025-Feb-23 10:53:39] [info] Loading textures... 
+[2025-Feb-23 10:53:39] [info] Room texture count: 1
+[2025-Feb-23 10:53:39] [info] Object texture count: 1
+[2025-Feb-23 10:53:39] [info] Static texture count: 0
+[2025-Feb-23 10:53:39] [info] Anim texture count: 0
+[2025-Feb-23 10:53:39] [info] Sprite texture count: 1
+[2025-Feb-23 10:53:40] [info] Loading samples... 
+[2025-Feb-23 10:53:40] [info] Sound map size: 4096
+[2025-Feb-23 10:53:40] [warning] No samples were found or loaded.
+[2025-Feb-23 10:53:40] [info] Loading rooms... 
+[2025-Feb-23 10:53:40] [info] Room count: 1
+[2025-Feb-23 10:53:40] [info] Mesh count: 15
+[2025-Feb-23 10:53:40] [info] Animation count: 1
+[2025-Feb-23 10:53:40] [info] Model count: 1
+[2025-Feb-23 10:53:40] [info] Initializing objects...
+[2025-Feb-23 10:53:40] [info] Statics: 0
+[2025-Feb-23 10:53:40] [info] Sprite count: 0
+[2025-Feb-23 10:53:40] [info] Sprite sequence count: 0
+[2025-Feb-23 10:53:40] [info] Box count: 1
+[2025-Feb-23 10:53:40] [info] Overlap count: 0
+[2025-Feb-23 10:53:40] [info] Zone group count: 5
+[2025-Feb-23 10:53:40] [info] Mirror count: 0
+[2025-Feb-23 10:53:40] [info] Anim texture count: 0
+[2025-Feb-23 10:53:40] [info] Moveables: 1
+[2025-Feb-23 10:53:40] [info] AI object count: 0
+[2025-Feb-23 10:53:40] [info] Camera count: 0
+[2025-Feb-23 10:53:40] [info] Sink count: 0
+[2025-Feb-23 10:53:40] [info] Sound source count: 0
+[2025-Feb-23 10:53:40] [info] Initializing level...
+[2025-Feb-23 10:53:40] [warning] Attempted to set missing animation 11 for object LARA
+[2025-Feb-23 10:53:40] [info] Preparing renderer...
+[2025-Feb-23 10:53:40] [info] Allocated renderer object memory.
+[2025-Feb-23 10:53:40] [info] Generated 1 room texture atlases.
+[2025-Feb-23 10:53:40] [info] Generated 1 moveable texture atlases.
+[2025-Feb-23 10:53:40] [info] Generated 1 sprite atlases.
+[2025-Feb-23 10:53:40] [info] Loaded sky texture.
+[2025-Feb-23 10:53:40] [info] Loaded total 24 room vertices.
+[2025-Feb-23 10:53:40] [info] Preparing room data...
+[2025-Feb-23 10:53:40] [info] Preparing object data...
+[2025-Feb-23 10:53:40] [info] Preparing static mesh data...
+[2025-Feb-23 10:53:40] [info] Preparing sprite data...
+[2025-Feb-23 10:53:40] [info] Level loading complete.
+[2025-Feb-23 10:53:40] [info] Loading level script...
+[2025-Feb-23 10:53:40] [warning] Level script not found: ../../Scripts\Levels\title.lua
+[2025-Feb-23 10:53:40] [warning] No soundtrack files with name '108' were found
+[2025-Feb-23 10:53:40] [info] Loading node scripts...
+[2025-Feb-23 10:53:41] [info] 21 node catalogs were found and loaded.
+[2025-Feb-23 10:53:41] [info] Starting new level.
+[2025-Feb-23 10:53:41] [warning] Missing sound effect 111
+[2025-Feb-23 10:53:42] [warning] Missing sound effect 109
+[2025-Feb-23 10:53:42] [info] Cleaning up and exiting...
+[2025-Feb-23 10:53:42] [info] Shutting down BASS...
